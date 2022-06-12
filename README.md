@@ -1,5 +1,3 @@
 # edges
 notes on DGB
-$$
-\int \sin x = 4 
-$$
+$$ \int \sin x = 4 $$
