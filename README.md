@@ -1,3 +1,5 @@
 # edges
 notes on DGB
-$$ \int \sin x = 4 $$
+```math
+\int \sin x = 4 
+```
